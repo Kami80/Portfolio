@@ -57,3 +57,17 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 ## License
 
 This project is licensed under the MIT License.
+
+## Overview
+![home page](https://github.com/Kami80/Portfolio/blob/main/static/mysite1.png)
+![about page](https://github.com/Kami80/Portfolio/blob/main/static/mysite2.png)
+![about page 2](https://github.com/Kami80/Portfolio/blob/main/static/mysite3.png)
+![resume page](https://github.com/Kami80/Portfolio/blob/main/static/mysite4.png)
+![portfolio](https://github.com/Kami80/Portfolio/blob/main/static/mysite5.png)
+![contact](https://github.com/Kami80/Portfolio/blob/main/static/mysite6.png)
+
+### coloe selection in admin
+![admin-color bar selection](https://github.com/Kami80/Portfolio/blob/main/static/mysite7.png)
+
+### icon selection in admin
+![admin-icon selection](https://github.com/Kami80/Portfolio/blob/main/static/mysite8.png)
